@@ -1,0 +1,3 @@
+[submodule "deafault-submodule"]
+	path = deafault-submodule
+	url = https://github.com/asocream/deafault-submodule.git
