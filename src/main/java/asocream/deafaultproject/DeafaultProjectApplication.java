@@ -9,5 +9,6 @@ public class DeafaultProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DeafaultProjectApplication.class, args);
 	}
+	//ci/cd 테스트1
 
 }
